@@ -1,5 +1,10 @@
 # Microsoft-365-deleting-user
 
+<h1>Summary</h1>
+
+In this lab we will delete a user. Deleting a User will unassign all of the licenses assigned to that user. We will then restore the user but we will have to reassign the users licenses manually.
+
+<h1>Step 1) Deleting a User</h1>
 To start navigate to the admin center
 
 <img width="883" alt="Screenshot 2024-05-25 at 9 23 28 PM" src="https://github.com/Jtalbert15/Microsoft-365-resetting-password/assets/66844406/2788b440-e28b-4c25-a6bc-da85e477331a">
@@ -31,6 +36,8 @@ Click Delete User
 Microsoft 365 automatically unassigned the licenses our user possessed
 
 We can recover the account by once again clicking the hamburger in the top left
+
+<h1>Restoring the User</h1>
 
 <img width="888" alt="Screenshot 2024-05-25 at 9 42 16 PM" src="https://github.com/Jtalbert15/Microsoft-365-deleting-user/assets/66844406/e6a2d4ac-f611-4ead-b92d-c01dcd9fbea0">
 
